@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor Resende
+# 👋 Olá, eu sou o Victor Andrade
 
 🎯 Em transição para a área de Análise de Dados  
 📊 Estudante de Análise de Dados – SENAC  
