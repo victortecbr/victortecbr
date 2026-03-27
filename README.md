@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Victor Andrade
+# Eu sou o Victor Andrade
 
-🎯 Em transição para a área de Análise de Dados  
-📊 Estudante de Análise de Dados – SENAC  
-📍 Rio de Janeiro – RJ  
+Em transição para a área de Análise de Dados  
+Estudante de Análise de Dados – SENAC  
+Rio de Janeiro – RJ  
 
 Com experiência em controle de produtividade, relatórios e organização de dados em ambientes técnicos. Atualmente estou direcionando minha carreira para Análise de Dados, desenvolvendo habilidades em tratamento, visualização e interpretação de dados para tomada de decisão.
 
@@ -10,7 +10,7 @@ Tenho perfil analítico, foco em organização e gosto de transformar dados em i
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/)
@@ -23,7 +23,7 @@ Tenho perfil analítico, foco em organização e gosto de transformar dados em i
 
 ---
 
-## 📚 Atualmente Estudando
+##  Atualmente Estudando
 
 - Análise e tratamento de dados com Python
 - Modelagem e consulta em bancos de dados (SQL)
@@ -32,10 +32,10 @@ Tenho perfil analítico, foco em organização e gosto de transformar dados em i
 
 ---
 
-## 📈 Objetivo Profissional
+##  Objetivo Profissional
 
 Atuar como Analista de Dados Júnior, contribuindo com análise, organização e interpretação de dados para apoiar decisões estratégicas.
 
 ---
 
-📬 Contato: victor.tecbr@gmail.com
+Contato: victor.tecbr@gmail.com
