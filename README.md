@@ -46,33 +46,7 @@ Análise exploratória com Python
 Identificação de padrões de reservas e preços
 Geração de métricas relevantes para tomada de decisão
 
-Tecnologias: Python, Pandas, NumPy, Matplotlib
-
-🔒 Repositório atualmente privado
-
-📘 SENAC – Projetos de Análise de Dados
-
-Repositório com exercícios e práticas desenvolvidas durante a formação.
-
-Conteúdo:
-
-Manipulação de dados com Python
-Exercícios de análise exploratória
-Práticas com estruturas de dados
-
-🔒 Repositório atualmente privado
-
-Atualmente estudando
-Análise exploratória avançada com Python
-Visualização de dados orientada a negócio
-Modelagem e consultas SQL
-Estruturação de projetos analíticos
-Objetivo
-
-Atuar como Analista de Dados Júnior, contribuindo com análise, organização e interpretação de dados para apoiar decisões estratégicas.
-
-Observação estratégica (vale aplicar)
-
+Tecnologias: Python, SQL, Power Bi, Pandas, NumPy, Matplotlib
 Se quiser aumentar muito suas chances:
 
 Tornar pelo menos 1 projeto público
