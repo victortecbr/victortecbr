@@ -14,6 +14,7 @@ Tenho atuação direta com dados reais, trabalhando desde a limpeza até a gera�
 Meu foco é transformar dados brutos em informações claras, estruturadas e úteis para tomada de decisão.
 
 Tecnologias e Ferramentas
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/) 
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
