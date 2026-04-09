@@ -14,20 +14,14 @@ Tenho atuação direta com dados reais, trabalhando desde a limpeza até a gera�
 Meu foco é transformar dados brutos em informações claras, estruturadas e úteis para tomada de decisão.
 
 Tecnologias e Ferramentas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/) 
+[![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/) 
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) 
+[![SQL](https://img.shields.io/badge/SQL-Database-003B57?logo=postgresql&logoColor=white)](#) 
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)](https://git-scm.com/) 
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-Intermediário-E51050?logo=autodesk&logoColor=white)](#)
 
 
 Competências
